@@ -8,7 +8,7 @@ const Home = () => {
 
     useEffect(() => {
         setLoading(true)
-        fetch('http://localhost:5000/products')
+        fetch('https://e-commerce-server-pm79.onrender.com/products')
             .then(res => res.json())
             .then(data => {
                 setCategory(data)

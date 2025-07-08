@@ -6,7 +6,7 @@ A simple single-page e-commerce application built with React.js that allows user
 
 ## 🚀 Live Site
 
-👉 [Live Demo]()
+👉 [Live Demo](https://superb-sorbet-ed5a50.netlify.app/)
 
 ---
 
