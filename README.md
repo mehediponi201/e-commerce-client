@@ -44,10 +44,10 @@ A simple single-page e-commerce application built with React.js that allows user
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
-For client run: npm run dev 
-For server run: nodemon index.js
-The backend will run on: http://localhost:5000
+- For client run: npm run dev 
+- For server run: nodemon index.js
+- The backend will run on: http://localhost:5000
 
 ## ⚙️ How to Run using Render
 
-I deployed the serevr in Render, it will run on: https://e-commerce-server-pm79.onrender.com/
+- I deployed the serevr in Render, it will run on: https://e-commerce-server-pm79.onrender.com/
